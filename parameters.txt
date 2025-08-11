@@ -1,7 +1,7 @@
 filename /home/maartem/Desktop/data.lastframe.Ge63.WS_coordinates.dat
 jump_distance 1.54
 r_recombine 2.252
-r_vx 0.88
+r_vx 3.090
 n_runs 10
 wi 0.3939
 wv 0.3939
